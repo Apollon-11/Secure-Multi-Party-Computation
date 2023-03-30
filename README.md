@@ -19,3 +19,5 @@ z = (y, modp) </p>
 B checks whether B0 is comparable or not a number from the sequence
 with x (mod p). If so, he concludes that A0 ≥ B0. If not, he concludes,
 that A0 < B0 </p>
+<h2> Vulnerabilities: </h2>
+<p>Vulnerabilities were implemented in the project: RSA secret key vulnerability, False conclusion, Vulnerability related to repetitions in the transmitted sequence</p>
